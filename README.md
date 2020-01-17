@@ -2,7 +2,7 @@
 
 Валидация формы с помощью регулярных выражений (учебный проект)
 
-## [Демо] (https://ponikarovav.github.io/regexp-validation/)
+[Демо] (https://ponikarovav.github.io/regexp-validation/)
 
 ## Требования к полям формы
 
